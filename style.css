@@ -1,0 +1,42 @@
+.container{
+    font-family: 'Space Mono', monospace;
+}
+
+.nav{
+    font-family: 'Inconsolata', monospace;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+h1{
+    width: 350px;
+    height: 142px;
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 78px;
+}
+
+p{
+    width: 328px;
+    height: 81px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+button{
+    width: 216px;
+    height: 68px;
+    background-color: #333333;
+    color: white;
+    border: none;
+    margin-top: 66px;
+}
+
+.credits{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 114px;
+    margin-bottom: 24px;
+    font-size: 14px;
+    text-align: center;
+    color: #BDBDBD;
+}
